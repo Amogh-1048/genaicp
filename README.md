@@ -9,4 +9,4 @@ untitled30.ipynb contains the code for training the model
 
 ## Steps to run inference.ipynb
 1. Upload the two datasets to the colab environment.
-2. Run untitles30.ipynb file.
+2. Run untitled30.ipynb file.
